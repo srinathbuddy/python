@@ -1,0 +1,38 @@
+Data Handling
+
+Numpy -- array handling
+pandas -- dataframe, import and export
+
+Data Cleaning
+
+smote 
+
+Data visualization
+
+matplotlib bokeh
+seaborn
+
+Statistical Leaning
+
+scipy
+stats model
+
+
+Maching Leaning - models
+
+sklearn
+automl
+auto-sklearn
+
+Deep Leaning
+
+Tensorflow
+pytorch
+kevas
+
+NLP
+
+nltk
+gensim
+spacy
+stanford-nlp
